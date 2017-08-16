@@ -1,0 +1,47 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+  "files.associations": {
+      "*.vue": "vue"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
+  "eslint.options": {
+      "extensions": [".js", ".vue"],
+      "plugins": ["html"]
+
+  },
+  "files.autoSave": "onFocusChange",
+  "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "html",
+      { "language": "vue", "autoFix": true }
+  ],
+  "editor.detectIndentation": false,
+  "editor.renderIndentGuides": false,
+  "beautify.tabSize": 2,
+  "cssrem.rootFontSize": 100,
+  "workbench.colorTheme": "One Dark Pro",
+  "emmet.showExpandedAbbreviation": "always",
+
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.includeLanguages": {
+          "vue-html": "html",
+          "vue": "html"
+  },
+  "emmet.extensionsPath": true,
+  "sync.gist": "4186bf273ce63d0f32a457a1b76988e0",
+  "sync.lastUpload": "2017-08-14T02:21:54.263Z",
+  "sync.autoDownload": false,
+  "sync.autoUpload": false,
+  "sync.lastDownload": "",
+  "sync.forceDownload": false,
+  "sync.anonymousGist": false,
+  "sync.host": "",
+  "sync.pathPrefix": "",
+  "sync.quietSync": false,
+  "sync.askGistName": false
+}
